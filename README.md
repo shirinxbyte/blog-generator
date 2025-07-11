@@ -107,9 +107,3 @@ AI Beginner | #100DaysOfAI | Exploring the world of machine learning
 > ⭐️ If you like this project, consider giving it a star on GitHub!
 
 
-Let me know if you'd like me to:
-
-- Help you create a GitHub project banner
-- Turn this into a one-click web app with `streamlit`
-- Add more features like blog post export or image generation
-
