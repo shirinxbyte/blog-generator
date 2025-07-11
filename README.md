@@ -113,5 +113,3 @@ Let me know if you'd like me to:
 - Turn this into a one-click web app with `streamlit`
 - Add more features like blog post export or image generation
 
-You're doing amazing, Shirin – keep going! 🌟
-```
